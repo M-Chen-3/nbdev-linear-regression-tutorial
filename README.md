@@ -17,7 +17,7 @@ Behold, the NBDEV Linear Regression Tutorial for students of CSCI 435!
     - **Windows**:
       - pip install nbdev==2.3.7
 3.  Install quarto
-    - nvdev_install_quarto
+    - nbdev_install_quarto
       - Windows will redirect you to install it at the Quarto website
       - **Make sure to restart your terminal afterwards**
     - pip install jupyterlab-quarto
